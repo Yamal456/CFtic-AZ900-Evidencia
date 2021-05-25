@@ -54,4 +54,33 @@
 
 ![image-20210524113230571](C:\Localaaa\Evidencias\10-CreateVmPsStop.png)
 
-![image-20210524113629974](C:\Localaaa\Evidencias\10-CreateVmAdvisor.png)
+![image-20210524113629974](C:\Localaaa\Evidencias\10-CreateVmPs2.png)
+
+![10-CreateVmPsStop](C:\Localaaa\Evidencias\10-CreateVmPsStop.png)
+
+![10-CreateVmPS](C:\Localaaa\Evidencias\10-CreateVmPS.png)
+
+# 11-Create a VM with the CLI.md
+
+![11-AZwhithCLI4](C:\Localaaa\Evidencias\11-AZwhithCLI4.png)
+
+
+
+# 12 - Implement Azure Key Vault
+
+
+
+
+
+
+
+![12-KeyVault](C:\Localaaa\Evidencias\12-KeyVault.png)
+
+
+
+
+
+# 13-Secure network traffic
+
+
+
