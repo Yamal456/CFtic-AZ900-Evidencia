@@ -2,7 +2,7 @@
 
 # 01 - Create a virtual machine in the portal
 
-![image-20210526183141250](C:\Localaaa\Evidencias\01-CreateVMinPortal.png)
+![01-CreateVMinPortal](Evidencias/01-CreateVMinPortal.png)
 
 ![image-20210526183242728](C:\Localaaa\Evidencias\01-CreateVMibPortal02.png)
 
