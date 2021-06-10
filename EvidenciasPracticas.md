@@ -4,35 +4,33 @@
 
 ![01-CreateVMinPortal](Evidencias/01-CreateVMinPortal.png)
 
-![image-20210526183242728](C:\Localaaa\Evidencias\01-CreateVMibPortal02.png)
+![01-CreateVMibPortal02](Evidencias/01-CreateVMibPortal02.png)
 
-![image-20210526183407146](C:\Localaaa\Evidencias\01-CreateVMinPortal03.png)
+![01-CreateVMinPortal03](Evidencias/01-CreateVMinPortal03.png)
 
-![image-20210526183650146](C:\Localaaa\Evidencias\01-CreateVMinPortal04.png)
+![01-CreateVMinPortal04](Evidencias/01-CreateVMinPortal04.png)
 
-![image-20210526183830902](C:\Localaaa\Evidencias\01-CreateVMibPortal05.png)
+![01-CreateVMibPortal05](Evidencias/01-CreateVMibPortal05.png)
 
-![image-20210526184148730](C:\Localaaa\Evidencias\01-CreateVMibPortal06.png)
+![01-CreateVMibPortal06](Evidencias/01-CreateVMibPortal06.png)
 
-![image-20210526184252072](C:\Localaaa\Evidencias\01-CreateVMibPortal07.png)
+![01-CreateVMibPortal07](Evidencias/01-CreateVMibPortal07.png)
 
 # 02 - Create a Web App
 
-![image-20210526184941670](C:\Localaaa\Evidencias\02-CreateWebApp.png)
+![02-CreateWebApp](Evidencias/02-CreateWebApp.png)
 
-![image-20210526185439796](C:\Localaaa\Evidencias\02-CreateWebApp02.png)
+![02-CreateWebApp02](Evidencias/02-CreateWebApp02.png)
 
-![image-20210526185505588](C:\Localaaa\Evidencias\02-CreateWebApp03.png)
+![02-CreateWebApp03](Evidencias/02-CreateWebApp03.png)
 
 # 03 - Deploy Azure Container Instances
 
-![03-ContainerInstance](C:\Localaaa\Evidencias\03-ContainerInstance.png)
+![03-ContainerInstance](Evidencias/03-ContainerInstance.png)
 
-![](C:\Localaaa\Evidencias\03-ContainerInstance2.png)
+![03-ContainerInstance2](Evidencias/03-ContainerInstance2.png)
 
-# 04 - Create a virtual 
-
-# network
+# 04 - Create a virtual network
 
 ![04-VirtualNetwork](C:\Localaaa\Evidencias\04-VirtualNetwork.png)
 
@@ -44,7 +42,7 @@
 
 # 05 - Create blob storage
 
-#5
+
 
 ![image-20210524094725449](C:\Localaaa\Evidencias\05-BlobStorage.png)
 
