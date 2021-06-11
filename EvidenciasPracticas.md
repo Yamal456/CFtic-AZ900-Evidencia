@@ -127,89 +127,62 @@
 
 ![image-20210526193728530](/Evidencias/MRLRG)
 
-![image-20210526193901582](C:/Localaaa/Evidencias/15-MyRGBLocks02)
+![image-20210526193901582](Evidencias/15-MyRGBLocks02)
 
-![image-20210526193959055](C:/Localaaa/Evidencias/15-MyRGBLocks03)
+![image-20210526193959055](Evidencias/15-MyRGBLocks03)
 
-![image-20210526194537786](C:/Localaaa/Evidencias/15-MyRGBLocksStorage)
+![image-20210526194537786](Evidencias/15-MyRGBLocksStorage)
 
-![image-20210526194611705](C:/Localaaa/Evidencias/15-MyRGBLocksStorage02)
+![image-20210526194611705](Evidencias/15-MyRGBLocksStorage02)
 
-![image-20210526194659621](C:/Localaaa/Evidencias/15-MyRGBLocksDelete)
+![image-20210526194659621](Evidencias/15-MyRGBLocksDelete)
 
-![image-20210526195022707](C:/Localaaa/Evidencias/15-MyRGBLocksDelete02)
+![image-20210526195022707](Evidencias/15-MyRGBLocksDelete02)
 
 
 
 # 16 - Implement resource tagging
 
-![image-20210526195339509](C:/Localaaa/Evidencias/16-PolicyTag)
+![image-20210526195339509](Evidencias/16-PolicyTag)
 
+![image-20210526202957987](Evidencias/16-PolicyTag02)
 
+![image-20210526203028935](Evidencias/16-PolicyTag03)
 
-![image-20210526202957987](C:/Localaaa/Evidencias/16-PolicyTag02)
+![image-20210526203307584](Evidencias/16-PolicyTag04)
 
+![image-20210526203518690](Evidencias/16-PolicyTag05)
 
+![image-20210526203615398](Evidencias/16-PolicyTag06)
 
-![image-20210526203028935](C:/Localaaa/Evidencias/16-PolicyTag03)
-
-![image-20210526203307584](C:/Localaaa/Evidencias/16-PolicyTag04)
-
-![image-20210526203518690](C:/Localaaa/Evidencias/16-PolicyTag05)
-
-![image-20210526203615398](C:/Localaaa/Evidencias/16-PolicyTag06)
-
-![image-20210526203709638](C:/Localaaa/Evidencias/16-PolicyTag07)
-
-
-
-
-
-
-
-
-
-
-
+![image-20210526203709638](Evidencias/16-PolicyTag07)
 
 
 # 17 - Create an A Policy
 
+![image-20210525122003840](Evidencias/17.AzurePolicy.png)
 
+![image-20210525122154116](Evidencias/17-AzurePolicy2.png)
 
+![image-20210525122337427](Evidencias/17-AzurePolicy3.png)
 
-
-![image-20210525122003840](C:/Localaaa/Evidencias/17.AzurePolicy.png)
-
-
-
-![image-20210525122154116](C:/Localaaa/Evidencias/17-AzurePolicy2.png)
-
-
-
-![image-20210525122337427](C:/Localaaa/Evidencias/17-AzurePolicy3.png)
-
-
-
-![image-20210525122548451](C:/Localaaa/Evidencias/17-AzurePolicy4.png)
+![image-20210525122548451](Evidencias/17-AzurePolicy4.png)
 
 
 
 # 19 - Use the Pricing Calculator
 
+![image-20210526213508638](Evidencias/19-Calculator)
 
+![image-20210526213541880](Evidencias/19-Calculator02)
 
-![image-20210526213508638](C:/Localaaa/Evidencias/19-Calculator)
+![image-20210526213621938](Evidencias/19-Calculator03)
 
-![image-20210526213541880](C:/Localaaa/Evidencias/19-Calculator02)
-
-![image-20210526213621938](C:/Localaaa/Evidencias/19-Calculator03)
-
-![image-20210526213655260](C:/Localaaa/Evidencias/19-Calculator04)
+![image-20210526213655260](Evidencias/19-Calculator04)
 
 # 20 - Use the Azure TCO Calculator
 
-![image-20210526214309225](C:/Localaaa/Evidencias/20-TCOCalculator02)
+![image-20210526214309225](Evidencias/20-TCOCalculator02)
 
 
 
